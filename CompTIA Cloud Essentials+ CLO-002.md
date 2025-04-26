@@ -109,7 +109,7 @@
 | DRP | Disaster Recovery Plan |
 | BCP | Business Continuity Plan |
 
-## Extra Notes
+## Extra Notes and Resources
 - **Vendor Lock-In**: Hard to switch cloud providers once deeply integrated.
 - **Shadow IT**: Unauthorized cloud services being used inside organizations.
 - **Migration Strategies**:
@@ -118,3 +118,5 @@
 - **Chargebacks vs Showbacks**:
   - **Chargeback**: Departments are billed for cloud usage.
   - **Showback**: Departments see cloud costs but are not billed directly.
+
+[CompTIA Cloud Essentials+ CLO-002 YT course](https://youtu.be/dUpwh5XgxsA?si=ly2LoOdNnGDpY2gi)
