@@ -1,6 +1,3 @@
-
-# CompTIA Cloud Essentials+ (CLO-002) Full Notes
-
 ## 1. Cloud Concepts
 
 ### 1.1 Explain cloud principles
